@@ -1,0 +1,23 @@
+# Flutter / Dart
+.dart_tool/
+build/
+*.iml
+.idea/
+.metadata
+*.lock
+pubspec.lock
+
+# ENV / secrets
+.env
+*.jks
+*.keystore
+
+# OS / misc
+.DS_Store
+Thumbs.db
+
+# Documentación auxiliar
+_documentacion/
+_plan_accion.md
+_archived/
+_scripts/
